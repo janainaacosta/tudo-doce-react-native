@@ -25,7 +25,7 @@ const VerReceita = () => {
 
 
         <View style={styles.containerend}>
-            <Text style={styles.subtitle}>Ingredientes</Text>
+            <Text style={styles.subtitle}>Modo de preparo</Text>
             <Text style={styles.instruçoes}>1- Coloque as latas de leite condensado em uma panela com a manteiga e faça uma massa como um brigadeiro mole. </Text>
             <Text style={styles.instruçoes}>2- Coloque em uma travessa e, por cima deste brigadeiro mole, coloque os morangos cortados ao meio.</Text>
             <Text style={styles.instruçoes}>3- Reserve para fazer a cobertura.</Text>
